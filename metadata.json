@@ -1,0 +1,6 @@
+{
+  "name": "PaperFlow – PDF Maker",
+  "description": "All-in-One PDF Maker & Document Scanner with smart camera scanning, document conversions, PDF editing, annotations, OCR, security, and organization tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
